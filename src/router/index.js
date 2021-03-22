@@ -4,7 +4,7 @@ import ItemListsPage from "../pages/ItemLists";
 import AddItemPage from "../pages/AddItem";
 import MessagePage from "../pages/Message";
 
-// 注释111
+// 注释
 const router = [
   {
     name: "列表",
