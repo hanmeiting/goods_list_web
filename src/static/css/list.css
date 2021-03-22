@@ -1,0 +1,16 @@
+
+.ant-card-body{
+  padding:16px
+}
+.list-card h5{
+  margin-top: 10px;
+}
+.goodsImg{
+  width: 100%;
+  margin:0 auto;
+  border: 1px solid #f5f5f5;
+}
+.price{
+  margin: 0;
+  color:#a52b33
+}
