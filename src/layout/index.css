@@ -1,0 +1,37 @@
+.ant-layout{
+  height: 100%;
+}
+.logo {
+  float: left;
+  width: 120px;
+  height: 31px;
+  margin: 16px 24px 16px 0;
+}
+.ant-row-rtl .logo {
+  float: right;
+  margin: 16px 0 16px 24px;
+}
+
+.logo img{
+  display: block;
+  width: 100%;
+}
+.site-layout-background {
+  background: #fff;
+}
+.operate{
+  float: right;
+  color: #ccc;
+  line-height:inherit;
+}
+.operate-link span{
+  color: #ccc;
+  cursor: pointer;
+}
+.operate-link span{
+  padding: 0 8px;
+
+}
+.operate-link span:hover{
+  color:#fff
+}
